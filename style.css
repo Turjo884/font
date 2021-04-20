@@ -1,0 +1,89 @@
+/* Google Fonts Link */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap');
+
+
+
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    background: linear-gradient( to right, #0f0c29, #302b63, #24243e);
+    height: 100vh;
+    position: relative;
+}
+.axon{
+    position:  absolute;
+    width: 320px;
+    height: 515px;
+    background: #fff;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
+    border-radius: 5px;
+}
+.fa-icon{
+    height: 530px;
+}
+.axon img{
+    display: block;
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    margin: 10px auto;
+    border: 3px solid #000;
+}
+.axon .text{
+    text-align: center;
+    padding: 10px;
+}
+.axon .text h1{
+    font-size: 20px;
+    font-weight: 500;
+}
+.axon .text p{
+    font-size: 13px;
+}
+.element form{
+    margin: 10px 10px 0 10px;
+}
+.element .group{
+    margin-bottom: 15px;
+}
+.element .group label{
+    font-size: 15px;
+    display: block;
+    font-weight: 500;
+}
+.element form .group input{
+    width: 98%;
+    border: 2px solid #000;
+    padding: 8px;
+    border-radius: 5px;
+    font-size: 13px;
+}
+.axon .btn{
+    margin: 15px 0 15px 15px;
+    background:#138496;
+    padding: 5px 10px;
+    color: #fff;
+    font-size: 13px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+.axon .last{
+    margin-left: 12px;
+}
+.axon .last p{
+    font-size: 15px;
+}
+.axon .last a{
+    margin-left: 5px;
+    color:red;
+}
