@@ -1,6 +1,6 @@
 /* Google Fonts Link */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap');
-
+/* End Google Fonts  LInk*/
 
 
 *{
@@ -39,6 +39,7 @@ body{
     margin: 10px auto;
     border: 3px solid #000;
 }
+/* Start Header Area */
 .axon .text{
     text-align: center;
     padding: 13px;
@@ -50,6 +51,10 @@ body{
 .axon .text p{
     font-size: 13px;
 }
+/* End Header Area */
+
+
+/* Start Body Area */
 .element form{
     margin: 10px 13px 0 13px;
 }
@@ -68,6 +73,10 @@ body{
     border-radius: 5px;
     font-size: 13px;
 }
+/* End Body Area */
+
+
+/* Start Button Area */
 .axon .btn{
     margin: 15px 0 15px 15px;
     background:#138496;
@@ -77,6 +86,10 @@ body{
     border-radius: 2px;
     cursor: pointer;
 }
+/* End Button Area */
+
+
+/* Start Footer Area */
 .axon .last{
     margin-left: 14px;
 }
@@ -87,3 +100,4 @@ body{
     margin-left: 5px;
     color:red;
 }
+/* End Footer Area */
