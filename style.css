@@ -41,7 +41,7 @@ body{
 }
 .axon .text{
     text-align: center;
-    padding: 10px;
+    padding: 13px;
 }
 .axon .text h1{
     font-size: 20px;
@@ -51,7 +51,7 @@ body{
     font-size: 13px;
 }
 .element form{
-    margin: 10px 10px 0 10px;
+    margin: 10px 13px 0 13px;
 }
 .element .group{
     margin-bottom: 15px;
@@ -78,10 +78,10 @@ body{
     cursor: pointer;
 }
 .axon .last{
-    margin-left: 12px;
+    margin-left: 14px;
 }
 .axon .last p{
-    font-size: 15px;
+    font-size: 13px;
 }
 .axon .last a{
     margin-left: 5px;
