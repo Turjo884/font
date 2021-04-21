@@ -85,6 +85,10 @@ body{
     font-size: 13px;
     border-radius: 2px;
     cursor: pointer;
+    transition: .5s ease background;
+}
+.axon .btn:hover{
+    background: #085c69;
 }
 /* End Button Area */
 
